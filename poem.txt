@@ -6,5 +6,6 @@ yellow
 orange
 green
 blue
+purple
 
 These are the colours
